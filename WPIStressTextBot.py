@@ -207,12 +207,13 @@ def getAccountInfo(txtFile):
         userInfo[key.strip().lower()] = (value.replace("\n", "")).lstrip()
     return userInfo
 
-print messages
 userInfo = getAccountInfo("accountInfo.txt")
-print userInfo
 
 counter = 0
 for message in messages:
     sendEmail(studentEmail, studentPassword, email[counter], message, studentName,
               userInfo["title"])
     counter+=1
+            
+            
+print("Please fill out our survey here: https://cutt.ly/wpistresstextbot")
