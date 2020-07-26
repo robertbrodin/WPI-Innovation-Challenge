@@ -1,0 +1,5 @@
+NAME - Student Name
+EMAIL - Student Email
+PASSWORD - Student Email Password
+TITLE - Scheduling an appointment!
+DATE - Date desired for appointment

@@ -1,0 +1,6 @@
+Dear SDCC,
+
+I would like to make an appointment with a counselor at the SDCC on DATE. What are the available time slots?
+
+Thank you,
+NAME
