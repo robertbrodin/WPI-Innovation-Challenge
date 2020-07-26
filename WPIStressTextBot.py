@@ -1,4 +1,5 @@
 '''
+The WPI Stress Text Service
 Perceived Stress Scale (PSS) Text Bot - Stress Management Tool for College Students
 
 @authors: Ishani Bedre and Robert Brodin
